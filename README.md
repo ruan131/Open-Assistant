@@ -108,3 +108,8 @@ that if we collaborate we can together gift our knowledge and technology to the
 world for the benefit of humanity.
 
 Check out our [contributing guide](CONTRIBUTING.md) to get started.
+
+We believe that by doing this we will create a revolution in innovation in
+language. In the same way that stable-diffusion helped the world make art and
+images in new ways we hope Open Assistant can help improve the world by
+improving language itself.
